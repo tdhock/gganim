@@ -1,0 +1,8 @@
+Package: gganim
+Maintainer: Toby Dylan Hocking <toby.hocking@inria.fr>
+Author: Toby Dylan Hocking
+Version: 1.0
+License: GPL-3
+Title: Convert ggplots to animations
+Description: The data in a ggplot is split using the time aesthetic
+ to form the frames of the animation.
