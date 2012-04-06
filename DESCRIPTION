@@ -6,5 +6,5 @@ License: GPL-3
 Title: Convert ggplots to animations
 Description: The data in a ggplot is split using the time aesthetic
  to form the frames of the animation.
-Depends: ggplot (>= 0.9.0), animation
+Depends: ggplot2 (>= 0.9.0), animation
 Suggests: nicholsonppp, reshape2
