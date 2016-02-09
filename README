@@ -1,5 +1,0 @@
-The idea is to define a new aes(time=variable), which is compatible
-currently with ggplot2 0.9.0.
-
-This package will provide a function that takes ggplots defined in
-this way and makes animations.

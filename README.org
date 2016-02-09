@@ -1,0 +1,12 @@
+In 2012 I proposed using aes(time=variable) to define an animated
+ggplot. This package provided the gganim function that takes a ggplot
+and makes an animation.
+
+A more recent implementation of this idea is provided by
+https://github.com/dgrtwo/gganimate
+
+However, the only interactions possible in gganim/gganimate graphics
+are going forward or backward in time. If you want to create a data
+visualization which is animated and interactive with respect to other
+variables, you should consider using
+https://github.com/tdhock/animint.
